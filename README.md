@@ -7,9 +7,9 @@ In order to come up with games that are appealing to consumers, it is imperative
 
 For phase 1 of this project, the data science team has been tasked to classify positive and negative reviews on Boardgamegeeks.com for all of CMON's games using Natural Language Procesisng (NLP).
 
-The model that achieves the highest accuracy on the holdout/test set would be selected for production. The team would also be identifying the key contributors for the classifications.
+The model that achieves the highest accuracy on the holdout/test set would be selected for production. The team would also be identifying the key contributors for the classifications. Topic Modelling would also be done to identify key topics and focus from comments.
 
-For phase 2 of the project, the team would be looking at building a recommeder system for CMON based on ratings of the board games.
+For phase 2 of the project, the team would be looking at building a recommender system for CMON based on ratings of the board games.
 
 Phase 1 is crucial for the chief creative director so that CMON is able to understand what consumers like or dislike in their board games so that resources can be channeled to ensuring that the games they launch on kickstarter can be fully and hopefully over subscribed.
 
@@ -19,7 +19,7 @@ Deadline for phase 1 would be by the beginning of August 2020 and phase 2 rollou
 
 To solve this problem, Natural Language Processing (NLP) will be deployed and binary classification models will be built and the final predictive model will be selected based on the accuracy scores.
 
-Ultimately,using the predictive model, CMON would be able to uncover the answers to the following problems:
+Ultimately,using the predictive model and Topic Modelling, CMON would be able to uncover the answers to the following problems:
 
 Is the feedback provided positive or negative?
 
